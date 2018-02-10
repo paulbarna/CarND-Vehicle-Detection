@@ -16,10 +16,10 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image1]: ./output_images/CarNonCar.png
-[image2]: ./output_images/CarHog.jpg
-[image8]: ./output_images/NonCarHog.jpg
-[image3]: ./output_images/multi_view_sliding_windows.jpg
-[image4]: ./output_images/findCarHeat.jpg
+[image2]: ./output_images/CarHog.png
+[image8]: ./output_images/NonCarHog.png
+[image3]: ./output_images/multi_view_sliding_windows.png
+[image4]: ./output_images/findCarHeat.png
 [image5]: ./output_images/findCarHeat2.png
 [image6]: ./output_images/findCarHeat3.png
 [image7]: ./output_images/findCarHeat4.png
